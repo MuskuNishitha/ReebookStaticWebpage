@@ -1,0 +1,207 @@
+#maindiv{
+    top:0px;
+    position: absolute;
+    height:35px;
+    width:1350px;
+    border:1px solid blue;
+    background-color: blue;
+
+}
+#first{
+    color:white;
+    text-align: center;
+
+}
+#maindiv2{
+ top:40px;
+ position: absolute;
+ margin-left: 1120px;
+}
+.hello:hover{
+text-decoration: underline;
+}
+#input{
+    border:1px solid white;
+}
+#maindiv3{
+    top:80px;
+    position: absolute;
+    display: flex;
+}
+#men{
+    top:90px;
+    position:absolute;
+    padding-left: 910px;
+    padding-top: 20px;
+    margin-top: -30px;
+ text-decoration: underline;
+}
+#firstttttt{
+    top:140px;
+    position: absolute;
+}
+#maindiv4{
+    top:780px;
+    position:absolute;
+}
+#h1{
+    font-size: 35px;
+    padding-left: 100px;
+}
+#innerdivv{
+    display: flex;
+    margin-left: 80px;
+}
+#second{
+    margin-left:30px;
+}
+#maindiv7{
+    top:1300px;
+    position: relative;
+}
+#h12{
+    font-size:30px;
+    padding-left: 50px;
+}
+#maindiv8{
+    top:1300px;
+    position: relative;
+    padding-left: 100px;
+}
+.div{
+    width:80px;
+    height:30px;
+    border: 1px solid rgb(129, 123, 123);
+    padding-left: 5px;
+    padding-top: 5px;
+    align-self: center;
+}
+#div1{
+    display: flex;
+
+}
+#div2{
+
+    margin-left: 20px;
+}
+#div3{
+    margin-left:20px;
+}
+#h21{
+    font-size: 35px;
+}
+#maindiv9{
+    top:1350px;
+    position: relative;
+}
+#innerdi6{
+    display: flex;
+    justify-content: space-between;
+}
+#innerdi6 a{
+ text-decoration: none;
+}
+.j{
+    text-decoration: underline;
+}
+.shop{
+    padding-left: 10px;
+}
+#maindiv10{
+    top:1390px;
+    position: relative;
+}
+#inner{
+    display: flex;
+    margin: 20px;
+}
+#divvv2{
+    margin-left: 25px;
+}
+#best{
+    font-size: 30px;padding-left: 25px;
+}
+#innerdi6 p{
+    color:black;
+
+}
+.mn{
+    color:red;
+}
+#maindiv11{
+    top:1440px;
+    position: relative;
+}
+#maindddd{
+    display: flex;
+    padding-left: 5px;
+}
+#divv3{
+    margin: 10px;
+}
+#fea{
+    font-size: 30px;
+    padding-left: 15px;
+}
+.every{
+    color:blue;
+}
+.every:hover{
+    text-decoration: underline;
+}
+#maindiv12{
+    top:1450px;
+    position: relative;
+}
+#innerr{
+    display: flex;
+}
+#divv4{
+    margin: 15px;
+}
+#sale{
+    font-size:30px;
+    padding-left: 15px;
+}
+#maindiv13{
+    top:1550px;
+    position: relative;
+    display: flex;
+    height:60px;
+    width: 1350px;
+    border-color: blue;
+    background-color: blue;
+    border:1px solid blue;
+    color:#ffffff;
+    justify-content:space-evenly;
+
+}
+#heeeyyyy{
+    display: flex;
+}
+#heeyyyyyyy{
+    display: flex;
+    margin-top: 10px;
+}
+#maindiv14{
+    top:1550px;
+     position: relative;
+     display: flex;
+     justify-content: space-evenly;
+     font-size: 18px;
+
+}
+#maindiv14 img:hover{
+    background-color: rgb(20, 19, 19);
+}
+#maindiv14 a:hover{
+    text-decoration: underline;
+}
+#maindiv15{
+    top:1640px;
+    position: relative;
+     text-align: center;
+}
+#mnis{
+    color:rgb(63, 60, 60);
+}
